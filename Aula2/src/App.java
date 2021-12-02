@@ -9,6 +9,5 @@ public class App {
         * Uso dos () aumenta a prioridade da expressão
         *
         */
-        System.out.println("Hello, World!");
     }
 }
