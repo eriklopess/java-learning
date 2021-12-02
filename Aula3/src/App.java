@@ -41,6 +41,9 @@ public class App {
         boolean EXEMPLO_BOOLEAN = true;
         System.out.println(EXEMPLO_BOOLEAN);
 
+        String EXEMPLO_STRING = "Uma String";
+        System.out.println(EXEMPLO_STRING);
+
         /*
         * Observações
         * Nunca começar uma variavel com digito de numeros
